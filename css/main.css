@@ -498,6 +498,12 @@ border: 1px solid white;
     border-radius: 8px;
 }
 
+/* carrusel  */
+
+#carouselExampleDark{
+    display: none;
+}
+
 
 
 /*Media Queries de Desktop*/
